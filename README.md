@@ -1,1 +1,1 @@
-# Resume
+Attention to detail and passionate Analytics Consultant/Associate Manager with 12 years of experience in Healthcare & Life Sciences Data. Skilled at analyzing patient level data (LRx), Xponential data(Prescribers) and Managed Care data to deduce operational efficiency, utilizing statistical and business intelligence tools in predictive modelling.
